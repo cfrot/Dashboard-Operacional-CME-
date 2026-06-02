@@ -1,0 +1,7 @@
+Projeto de analise de consumo de água.
+
+1 - Pegar todas as maquinas que gastão aguá e fazer um consumo geral de equipamento semelhantes. Separar consumo das autoclaves (e das termodesinfectroras, quantos litros de água foram gasto nesse periodo.) Talvez das termos
+
+2 - Apresentar quanto o hospital Pagou de água do uso dos esquipamentos
+
+
