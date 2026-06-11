@@ -50,7 +50,7 @@ with col_logo:
 
 with col_titulo:
     st.markdown(
-        "<h4 style='margin-bottom:0;'>Rede D’Or | Centro de Operações CME</h4>",
+        "<h4 style='margin-bottom:0;'>Rede Hospitalar | Centro de Operações CME</h4>",
         unsafe_allow_html=True
     )
     st.caption(
