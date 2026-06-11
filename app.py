@@ -7,7 +7,7 @@ import consumo_agua as ca
 import gasto_financeiro as gf
 
 st.set_page_config(
-    page_title="Rede D’Or | Centro de Operações CME",
+    page_title="Rede Hospitalar | Centro de Operações CME",
     layout="wide"
 )
 
